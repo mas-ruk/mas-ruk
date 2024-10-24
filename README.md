@@ -6,7 +6,7 @@ I'm a passionate developer, constantly learning new technologies and building ex
 ![Profile banner image here]
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: [**EisenhowerMatrix**](https://github.com/Doruk/HessianMatrix) and other stuff too!
+- 🔭 I’m currently working on: [**EisenhowerMatrix**](https://github.com/mas-ruk/HessianMatrix) and other stuff too!
 - 🌱 I’m constantly learning about advanced algorithms, machine learning, and hardware integration.
 - 💼 Open to collaborations and interesting opportunities in **embedded systems**, **software development** or anything really!
 - 💬 Ask me about: ESP32, robotics, C/C++, Python, or hardware projects!
