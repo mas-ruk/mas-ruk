@@ -29,7 +29,7 @@ I'm a passionate developer, constantly learning new technologies and building ex
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Doruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doruk&show_icons=true&theme=radical)
+![Doruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-ruk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doruk&layout=compact)](https://github.com/Doruk/github-readme-stats)
 
 ## 🔗 Let's Connect
