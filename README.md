@@ -19,7 +19,6 @@ I'm a passionate developer, constantly learning new technologies and building ex
 - ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-
 ### Tools and Technologies
 - ![ESP32](https://img.shields.io/badge/ESP32-gray?style=flat-square&logo=espressif&logoColor=white)
 - ![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)
@@ -29,8 +28,8 @@ I'm a passionate developer, constantly learning new technologies and building ex
 - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Doruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mas-ruk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doruk&layout=compact)](https://github.com/Doruk/github-readme-stats)
+![mas-ruk's Stats](https://github-readme-stats.vercel.app/api?username=mas-ruk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mas-ruk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mas-ruk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔗 Let's Connect
 - [LinkedIn] - WIP
