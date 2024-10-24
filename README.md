@@ -33,8 +33,6 @@ I'm a passionate developer, constantly learning new technologies and building ex
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doruk&layout=compact)](https://github.com/Doruk/github-readme-stats)
 
 ## 🔗 Let's Connect
-- [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email Me](mailto:your.email@example.com)
+- [LinkedIn] - WIP
 
 Feel free to check out my schenanigans and contribute/contact me if something catches your eye! 🚀 
