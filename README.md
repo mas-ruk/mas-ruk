@@ -1,9 +1,9 @@
 
-# Hi, I'm Doruk (or Zac) 👋
+# Hi, I'm Zac 👋
 
-I'm a passionate developer, constantly learning new technologies and building exciting projects. I love working on **embedded systems**, **robotics**, **software development**, and much more. Have a look at what I'm working on :DD
+I'm a passionate software developer, constantly learning new technologies and building exciting projects. I love working on **embedded systems**, **robotics**, **software development**, and much more. Have a look at what I'm working on :DD
 
-![Profile banner image here]
+![image](https://github.com/user-attachments/assets/e9000bfe-1e41-49d1-87b9-5a9545ebf9e5)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: [**EisenhowerMatrix**](https://github.com/mas-ruk/HessianMatrix) and other stuff too!
