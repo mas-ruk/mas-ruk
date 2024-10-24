@@ -1,9 +1,8 @@
 
-# Hi, I'm Zac 👋
+![image](https://github.com/user-attachments/assets/e9000bfe-1e41-49d1-87b9-5a9545ebf9e5)
 
 I'm a passionate software developer, constantly learning new technologies and building exciting projects. I love working on **embedded systems**, **robotics**, **software development**, and much more. Have a look at what I'm working on :DD
 
-![image](https://github.com/user-attachments/assets/e9000bfe-1e41-49d1-87b9-5a9545ebf9e5)
 ## 🚀 About Me
 - 🔭 I’m currently working on: [**EisenhowerMatrix**](https://github.com/mas-ruk/HessianMatrix) and other stuff too!
 - 🌱 I’m constantly learning about advanced algorithms, machine learning, and hardware integration.
